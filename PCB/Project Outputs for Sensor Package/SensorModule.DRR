@@ -1,0 +1,17 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: SensorModule.PcbDoc   6/21/2015  12:44:08 AM
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : SensorModule.TXT
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        15mil (0.381mm)          Round          179              23.49 Inch (596.73 mm)
+T2        35mil (0.889mm)          Round          6                0.68 Inch (17.27 mm)
+T3        40mil (1.016mm)          Round          27               4.82 Inch (122.38 mm)
+T4        118mil (2.9972mm)        Round          2                2.59 Inch (65.75 mm)
+---------------------------------------------------------------------------
+Totals                                            214              31.58 Inch (802.14 mm)
+
+Total Processing Time (hh:mm:ss) : 00:00:00
